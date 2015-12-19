@@ -7,6 +7,8 @@ Based on Win-CPC by Ludovic Deplanque.
 
 First version of CrocoDS was created for... Nintendo DS. 
 
+![Screenshot](screenshot.png)
+
 How to install?
 ===============
 
