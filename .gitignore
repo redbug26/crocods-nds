@@ -1,0 +1,12 @@
+build
+other
+arm7/build
+*.sna
+*.elf
+*.zip
+*.nds
+*.arm9
+*.ds.gba
+arm7.bin
+arm9/*.elf
+arm7/*.elf
