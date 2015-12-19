@@ -32,21 +32,19 @@ How to compile?
 To compile crocods
 Modify ds_rules from
 
-<<<
-#---------------------------------------------------------------------------------
+```
 %.nds: %.arm9
     ndstool -c $@ -9 $<
     @echo built ... $(notdir $@)
-<<<
+```
 
 TO
 
->>>
-#---------------------------------------------------------------------------------
+```
 %.nds: %.arm9
     ndstool -c $@ -9 $< -7 $(ARM7BIN)
     @echo built ... $(notdir $@)
->>>
+```
 
 
 License
